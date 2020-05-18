@@ -1,2 +1,0 @@
-# infosec-experiments
-InfoSec Experimenters
